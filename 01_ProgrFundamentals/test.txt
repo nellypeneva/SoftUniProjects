@@ -1,2 +1,3 @@
 test file
 Added content and commited with GitBash
+test making and resolving conflicts
