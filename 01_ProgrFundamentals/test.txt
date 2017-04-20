@@ -1,3 +1,4 @@
 test file
 Added content and commited with GitBash
 edited locally
+test making and resolving conflicts
