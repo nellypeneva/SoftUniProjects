@@ -1,5 +1,5 @@
 # SoftUniProjects
 
-This is test repository for SoftUni projects!
+This is test repository for SoftUni projects.
 
-Here are lab exercises and homework tasks.
+Here are lab exercises and homework tasks:) :) :)
