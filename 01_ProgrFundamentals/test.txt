@@ -1,2 +1,3 @@
 test file
 Added content and commited with GitBash
+edited locally
