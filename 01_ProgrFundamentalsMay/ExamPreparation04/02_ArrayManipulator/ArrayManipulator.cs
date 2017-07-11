@@ -180,23 +180,4 @@ namespace _02_ArrayManipulator
             collection.AddRange(range);
         }
     }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-//List<int> testlist = new List<int>();
-//Console.WriteLine(testlist.Min());
-
-//var result = collection.GetRange(-1, 2);
-//var result = collection.GetRange(1, 4);
-//Console.WriteLine("[{0}]", String.Join(", ", result));
+} 

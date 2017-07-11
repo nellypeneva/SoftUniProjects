@@ -20,9 +20,7 @@ namespace _03_NetherRealms
             {
                 results.Add(new Demon(name));
             }
-
-            //results = results.OrderBy(x => x.Name).ToList();
-
+ 
             foreach (var demon in results)
             {
                 Console.WriteLine("{0} - {1} health, {2:f2} damage", demon.Name, demon.Health, demon.Damage);

@@ -14,9 +14,4 @@ namespace _04_Largest3Numbers
         }
     }
 }
-
-             
-
-//Console.ReadLine().Split(' ').Select(int.Parse).
-//        OrderByDescending(num => num).Take(3).ToList().
-//        ForEach(Console.WriteLine);
+ 

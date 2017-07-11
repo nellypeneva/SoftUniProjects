@@ -1,5 +1,4 @@
-﻿using System;
-//using System.Collections.Generic;
+﻿using System; 
 using System.Linq; 
 
 namespace _03_TargetMultiplier
@@ -27,8 +26,7 @@ namespace _03_TargetMultiplier
             int[] cell = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int cellRow = cell[0];
             int cellCol = cell[1];
-            int cellValue = twoDimArr[cellRow, cellCol];
-            // do we need to check indexes?
+            int cellValue = twoDimArr[cellRow, cellCol]; 
 
             int startRow = (cellRow - 1 >= 0) ? cellRow - 1 : 0;
             int endRow = (cellRow + 1 < rows) ? cellRow + 1 : rows - 1;

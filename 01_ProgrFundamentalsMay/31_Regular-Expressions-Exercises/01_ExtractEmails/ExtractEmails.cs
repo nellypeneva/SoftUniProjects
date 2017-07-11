@@ -12,6 +12,7 @@ namespace _01_ExtractEmails
 
             //string pattern = @"(?<=\s)[a-z0-9]+([-.]\w*)*@[a-z]+([-.]\w*)*(\.[a-z]+)"; //vasil damyanov
 
+            //last test
             string pattern = @"(?<=\s|^)([a-z0-9]+(?:[_.-][a-z0-9]+)*@(?:[a-z]+\-?[a-z]+\.)+[a-z]+\-?[a-z]+)\b";
             //match also  email like:   mail-01.info-bg@software-university.soft-ware.academy
 
@@ -27,7 +28,3 @@ namespace _01_ExtractEmails
         }
     }
 }
-
-//mail-mail.info-bg@software-university.soft-ware.academy
-//string pattern = @"(?<=\s|^)([a-z0-9]+(?:[_.-][a-z0-9]+)*@(?:[a-z]+\-?[a-z]+\.)+[a-z]+\-?[a-z]+)\b";
-//string pattern = @"(?<=\s|^)([a-z0-9]+(?:[_.-][a-z0-9]+)*@(?:[a-z]+\-?[a-z]+\.)+[a-z]+\-?[a-z]+)\b";

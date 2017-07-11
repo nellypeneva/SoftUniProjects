@@ -29,7 +29,6 @@ namespace _04_RoliTheCoder
                     int id = int.Parse(match.Groups[1].Value);
                     string name = match.Groups[2].Value;
                     string[] participants = new string[0];
-                    //participants = match.Groups[3].Value.Split(new char[] { }, StringSplitOptions.RemoveEmptyEntries);  
 
                     if (input.Contains("@"))
                     {
@@ -86,15 +85,3 @@ namespace _04_RoliTheCoder
         }
     }
 }
-
-
-//string pattern = @"[0-9a-zA-Z]+\s+#[0-9a-zA-Z]+\s*(@[a-zA-Z]+\s*)*";
-//string pattern = @"(\d+)\s+#(?<event>[A-Za-z0-9]+)\s+(?<participants>(?:@[A-Za-z'-]+\s?)*)"; //(@([A-Za-z'-]+\s?))+
-//string pattern = @"(\d+)\s+#([A-Za-z0-9]+)\s+((?:@[A-Za-z'-]+\s+)*)";
-
-/*
- "Split(new char[] { }...." хваща whitespace, а "Split(new char[] { ' ' }...." хваща само спейс (единично празно място).
- */
-
-//pattern = @"(?<id>\d+)\s+#(?<eventName>[A-Za-z0-9]+)(\s+(?:@[A-Za-z\'\-]+\s+)+)?"; 
-//pattern = @"(\d+)\s+#([A-Za-z0-9]+)(\s+(?:@[A-Za-z'-]+)+)?";

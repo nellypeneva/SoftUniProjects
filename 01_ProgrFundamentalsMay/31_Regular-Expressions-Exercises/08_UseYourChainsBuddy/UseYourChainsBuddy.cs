@@ -9,7 +9,7 @@ namespace _08_UseYourChainsBuddy
         public static void Main()
         {
             string pattern = @"<p>(.*?)<\/p>";
-            //string pattern = @"<p>[\s]?(.*?)[\s]?</p>";
+            //string pattern = @"<p>[\s]?(.*?)[\s]?<\/p>";
             Console.SetIn(new StreamReader(Console.OpenStandardInput(8192)));
             string input = Console.ReadLine();
          

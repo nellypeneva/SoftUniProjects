@@ -5,19 +5,11 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CharityMarathon", "01_CharityMarathon\01_CharityMarathon.csproj", "{2C795611-C540-4445-BAD5-A7E143FB8481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_17.Altitude", "00_17.Altitude\00_17.Altitude.csproj", "{F702EF57-B625-4122-9739-DC6BBCE26640}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Ladybugs", "02_Ladybugs\02_Ladybugs.csproj", "{01AFBBD8-90E2-48E8-BA91-F4F6C2D17B50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_NetherRealms", "03_NetherRealms\03_NetherRealms.csproj", "{3EBC43AC-9DF0-426D-8094-8802429201D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03a_NetherRealms", "03a_NetherRealms\03a_NetherRealms.csproj", "{44F07D13-B78D-4208-9006-436BE17221B7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_RoliTheCoder", "04_RoliTheCoder\04_RoliTheCoder.csproj", "{9E791C5E-5705-4B61-80E0-B5AFC74C3C78}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04a_RoliTheCoder", "04a_RoliTheCoder\04a_RoliTheCoder.csproj", "{CC7D029F-925A-4CC1-A6EB-77B0688D1C4A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04b_RoliTheCoder", "04b_RoliTheCoder\04b_RoliTheCoder.csproj", "{A9BCFBA8-8641-4BB2-875C-2CF212AD56DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +21,6 @@ Global
 		{2C795611-C540-4445-BAD5-A7E143FB8481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C795611-C540-4445-BAD5-A7E143FB8481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C795611-C540-4445-BAD5-A7E143FB8481}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F702EF57-B625-4122-9739-DC6BBCE26640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F702EF57-B625-4122-9739-DC6BBCE26640}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F702EF57-B625-4122-9739-DC6BBCE26640}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F702EF57-B625-4122-9739-DC6BBCE26640}.Release|Any CPU.Build.0 = Release|Any CPU
 		{01AFBBD8-90E2-48E8-BA91-F4F6C2D17B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01AFBBD8-90E2-48E8-BA91-F4F6C2D17B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01AFBBD8-90E2-48E8-BA91-F4F6C2D17B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,22 +29,10 @@ Global
 		{3EBC43AC-9DF0-426D-8094-8802429201D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EBC43AC-9DF0-426D-8094-8802429201D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EBC43AC-9DF0-426D-8094-8802429201D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44F07D13-B78D-4208-9006-436BE17221B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44F07D13-B78D-4208-9006-436BE17221B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44F07D13-B78D-4208-9006-436BE17221B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44F07D13-B78D-4208-9006-436BE17221B7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9E791C5E-5705-4B61-80E0-B5AFC74C3C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9E791C5E-5705-4B61-80E0-B5AFC74C3C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E791C5E-5705-4B61-80E0-B5AFC74C3C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E791C5E-5705-4B61-80E0-B5AFC74C3C78}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC7D029F-925A-4CC1-A6EB-77B0688D1C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC7D029F-925A-4CC1-A6EB-77B0688D1C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC7D029F-925A-4CC1-A6EB-77B0688D1C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC7D029F-925A-4CC1-A6EB-77B0688D1C4A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9BCFBA8-8641-4BB2-875C-2CF212AD56DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9BCFBA8-8641-4BB2-875C-2CF212AD56DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9BCFBA8-8641-4BB2-875C-2CF212AD56DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9BCFBA8-8641-4BB2-875C-2CF212AD56DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

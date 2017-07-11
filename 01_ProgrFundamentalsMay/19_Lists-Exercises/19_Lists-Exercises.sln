@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ArrayManipulator", "05_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_LongestIncreasingSubsequence", "04_LongestIncreasingSubsequence\04_LongestIncreasingSubsequence.csproj", "{D022C6A3-ADDF-4571-87B3-1A6FE83A3EA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04a_LongestIncreasingSubsequence", "04a_LongestIncreasingSubsequence\04a_LongestIncreasingSubsequence.csproj", "{467788E3-826E-4A6E-9A2A-0A8430383CD6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SearchForANumber", "03_SearchForANumber\03_SearchForANumber.csproj", "{AF652557-78E8-4E02-A813-2FCBE0ADEE34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ChangeList", "02_ChangeList\02_ChangeList.csproj", "{F6AF8753-85EF-4C86-9602-F4AC1132AB9B}"
@@ -45,10 +43,6 @@ Global
 		{D022C6A3-ADDF-4571-87B3-1A6FE83A3EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D022C6A3-ADDF-4571-87B3-1A6FE83A3EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D022C6A3-ADDF-4571-87B3-1A6FE83A3EA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{467788E3-826E-4A6E-9A2A-0A8430383CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{467788E3-826E-4A6E-9A2A-0A8430383CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{467788E3-826E-4A6E-9A2A-0A8430383CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{467788E3-826E-4A6E-9A2A-0A8430383CD6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF652557-78E8-4E02-A813-2FCBE0ADEE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AF652557-78E8-4E02-A813-2FCBE0ADEE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF652557-78E8-4E02-A813-2FCBE0ADEE34}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -24,7 +24,3 @@ namespace _07_Hideout
         }
     }
 }
-
-//string key = Regex.Escape($@"{parameters[0]}");
-//Match match = Regex.Match (input, $@"{key}{{{int.Parse(parameters[1])},}}");
- 

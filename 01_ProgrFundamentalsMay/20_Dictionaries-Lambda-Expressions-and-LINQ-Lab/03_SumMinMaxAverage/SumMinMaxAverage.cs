@@ -8,7 +8,6 @@ namespace _03_SumMinMaxAverage
     {
         public static void Main()
         {
-            //int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             int n = int.Parse(Console.ReadLine());
             int[] numbers = new int[n];
 

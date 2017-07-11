@@ -44,5 +44,4 @@ namespace _07_QueryMess
         }
     }
 }
-//what is the diference between (%20|\+)+  and [%20|\+]+
-//(^|(?<=[\r\n\?\&\+]))[^\?\&\=]+?\=[^\?\&\=]+?($|(?=[\?\&\n\r\=]))
+

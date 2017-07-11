@@ -109,15 +109,3 @@ namespace _02_CommandInterpreter
         } 
     }
 }
-
-
-
-//private static void rotateLeft(List<int> arr)
-//{
-//    int firstNum = arr[0];
-//    for (int i = 0; i < arr.Count - 1; i++)
-//    {
-//        arr[i] = arr[i + 1];
-//    }
-//    arr[arr.Count - 1] = firstNum;
-//}

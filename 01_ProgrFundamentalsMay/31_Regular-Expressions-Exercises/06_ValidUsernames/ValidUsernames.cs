@@ -32,5 +32,3 @@ namespace _06_ValidUsernames
     }
 }
 
- 
-//string pattern = @"(?<=[\s\/\\(\)]|^)([A-Za-z]\w{2,24})(?=[\s\/\\(\)]|$)"; 

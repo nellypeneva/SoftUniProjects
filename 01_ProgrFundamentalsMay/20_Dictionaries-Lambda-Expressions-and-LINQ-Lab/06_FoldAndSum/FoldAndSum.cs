@@ -24,8 +24,3 @@ namespace _06_FoldAndSum
         }
     }
 }
-
-
-//var selection2 = numbers.Reverse().Take(k);
-//var result = row1.Zip(row2, (x, y) => x + y);
-//Console.WriteLine(String.Join(" ", result));
